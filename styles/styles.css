@@ -717,11 +717,11 @@ footer {
 /* Landscape phones and down */
 @media (max-width: 480px) {
     h1 {
-        font-size: 2.2rem;
-        margin: 0 0 250px -175px;
+        font-size: 2rem;
+        margin: 0 0 250px -155px;
     }
 
     .companyName {
-        font-size: 10rem;
+        font-size: 9rem;
     }
 }
